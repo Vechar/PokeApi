@@ -1,4 +1,4 @@
-# Pokémon Fetcher 🔍
+# Pokémon Fetcher 
 
 A simple web app that lets users search for Pokémon by name or ID using the PokéAPI and displays basic info in a styled Bootstrap card.
 
